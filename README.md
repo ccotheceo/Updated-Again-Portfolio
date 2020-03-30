@@ -5,6 +5,11 @@ This is an updated portfolio page that is built using react. I have also include
 ## Issues 
 I am having difficulty with getting my footer to stay on the page. I have tried to but it just wont come back. It is hidden outside of the page but when i inspect it can be found. I am going to reach out for help.
 
+## Screenshot 
+
+<img width="1029" alt="Screen Shot 2020-03-30 at 11 50 40 AM" src="https://user-images.githubusercontent.com/58203830/77939619-11015580-727d-11ea-8669-d7111b350370.png">
+
+
 ## Requirements
 
 * Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments. 
